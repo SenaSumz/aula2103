@@ -12,12 +12,12 @@ var resultado3;
 
 resultado1 = (15*2) + (10*9)
 
-console.log (resultado1);
+console.log ('(15*2) + (10*9) = ' + resultado1);
 
 resultado2 = (10+10+10+4) / 2
 
-console.log (resultado2);
+console.log ('(10+10+10+4) / 2 = ' +  resultado2);
 
 resultado3 = (100/2*4) / 5
 
-console.log (resultado3);
+console.log ('(100/2*4) / 5 = ' + resultado3);

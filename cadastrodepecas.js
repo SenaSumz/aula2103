@@ -33,7 +33,3 @@ if (pesodapecaemgramas >=100){
         console.log ('valor insuficiente')
 
     }
-
-
- 
-
